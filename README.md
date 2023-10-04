@@ -1,2 +1,4 @@
-# NASA-SA-hackathon
-NASA Space Hack Hackathon - By Cosmic Shoguns
+# By Team Cosmic Shoguns
+
+# Exclusive Members
+...
